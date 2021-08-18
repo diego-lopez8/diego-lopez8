@@ -6,4 +6,4 @@ I'm currently working on a C++ Student Information System (SIS) backend which ca
 
 My main learning focuses for short term are backends with C++, data colleciton & analysis with python, and increasing my knowledge of computer networks. 
 
-You can reach me at my email - diego.lopez@nyu.edu
+You can reach me at my email! - diego.lopez@nyu.edu - all inquiries are welcome. 
