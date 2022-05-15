@@ -2,6 +2,14 @@
 
 I'm a Junior at New York University studying Computer and Data Science with a minor in Cybersecurity. 
 
-I'm currently working on Data Science & Research projects. My most recent project, "The Rhythms of Routine" showscases hadoop architecture and data ingestion to create a analytic. Another project, "NYCSHS Admissions" showscases a full Jupyter Notebook deliverable utilizing machine learning and factor analysis with PCA. 
+Current focuses are music intelligence, ethical hacking, and deep learning for cybersecurity. 
 
-You can reach me at my email! - diego.lopez@nyu.edu - all inquiries are welcome. 
+Specifically,
+
+I'm currently researching and developing a emotion-based music recommender system (MRS) that is enhanced by cognitive psychology and personality theory. 
+
+I am also exploring ML/DL for cybersecurity, and applying algorithms to network traffic for classification and IDS.
+
+My last main focus is on ethical hacking, and am currently training my skills before moving to bug bounties in the near future. 
+
+You can reach me at my email! - diego.lopez@nyu.edu 
