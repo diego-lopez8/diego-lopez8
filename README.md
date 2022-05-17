@@ -1,6 +1,6 @@
 ### Welcome to my page. 
 
-I'm a Junior at New York University studying Computer and Data Science with a minor in Cybersecurity. 
+I'm a Rising Senior at New York University studying Computer and Data Science with a minor in Cybersecurity. 
 
 Current focuses are music intelligence, ethical hacking, and deep learning for cybersecurity. 
 
