@@ -1,9 +1,7 @@
-### Welcome to my page. 
+### About
 
-I'm a Rising Senior at New York University studying Computer and Data Science with a minor in Cybersecurity. 
+I'm a Research Network Engineer in NYU Research Technology Services, and a security researcher. I focus on AI for Cybersecurity, blue team and red team. 
 
-I am focused on Anomaly detection for Cybersecurity using unsupervised & deep learning techniques. This includes automated malware detection, NIDS and network anomaly detection, as well as active authentication and UEBA. 
+Also a graduate student pursuing a M.S. in Cybersecurity at NYU.
 
-I will at some point try to make an open source, cloud native, anomaly detection application for network security.
-
-You can reach me at my email! - diego.lopez@nyu.edu 
+Reachable at diego.lopez@nyu.edu
