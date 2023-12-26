@@ -2,13 +2,10 @@
 
 Research Network Engineer at New York University
 
-Interested in:
-
 - Developing novel Machine Learning systems for Cybersecurity (HIDS/NIDS)
 - Systems Performance & Efficiency
 - Red Team Automation
-- Astronomy
-- Boxing
+- Astronomy Data Science
 
 Big believer in "How you do anything is how you do everything".
 
