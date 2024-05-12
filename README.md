@@ -1,11 +1,13 @@
 ### About
 
-Research Network Engineer at New York University
+Hi, I am a Senior Research Network Engineer at New York University
 
-- Developing novel Machine Learning systems for Cybersecurity (HIDS/NIDS)
-- Systems Performance & Efficiency
-- Red Team Automation
-- Astronomy Data Science
+I focus on a wide range of topics, such as
+
+- Network Engineering / Network Software Engineering
+- Automation
+- Deployments
+- Machine Learning 
 
 Big believer in "How you do anything is how you do everything".
 
